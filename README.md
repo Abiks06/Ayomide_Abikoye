@@ -15,16 +15,16 @@
 ---
 
 📌 Featured Projects
-🔹 [Project 1: Recipe Finder(https://github.com/Ayomide_Abikoye/Recipe_Finder)  
+🔹 [Project 1: Recipe Finder(https://abiks06.github.io/Recipe-Finder/)  
 It uses a free API to find recipes online and gives the link to the websites with the recipes
 
-🔹 [Project 2: Mood Journal(https://github.com/Ayomide_Abikoye/Mood_Journal)  
+🔹 [Project 2: Mood Journal(https://abiks06.github.io/Mood-Journal/)
 It tracks your mood and displays a graphic of your mood changes over time.
 
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayomide_Abikoye&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomide_Abikoye&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abiks06&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiks06&layout=compact&theme=radical)
 
 ---
 
